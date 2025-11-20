@@ -63,6 +63,6 @@ echo "/dev/vg_backup/lv_app_logs /production ext3 defaults 0 0" | sudo tee -a /e
 
 # OUTPUT :
 
-<img width="424" height="145" alt="image" src="https://github.com/user-attachments/assets/784cbeba-ba87-43fc-a4b5-05a1b450be1e" />
-## Result :
+<img width="424" height="145" alt="image" src="https://github.com/user-attachments/assets/784cbeba-ba87-43fc-a4b5-05a1b450be1e" /> </br>
+# Result :
 This expirement has done succesffully
